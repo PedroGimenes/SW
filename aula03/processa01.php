@@ -1,5 +1,5 @@
 <?php
-    $nome = $_POST ['cxnome'];
+    $nome = $_GET ['cxnome'];
 
     echo"Bem vindo, $nome";
 
