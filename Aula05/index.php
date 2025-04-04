@@ -46,6 +46,7 @@
            <div class="text-center">
                <p>Não é membro ?<a href="#!">Registra-se</a></p>
                <p>ou entre com:</p>
+               <a href="https://www.facebook.com/?locale=pt_BR">
                 <button  data-mdb-ripple-init type="button" class="btn btn-secondary btn-floating mx-1">
                     <i class="fab fa-facebook-f">
                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
@@ -53,7 +54,8 @@
                      </svg>
                     </i>
                 </button>
-
+                </a>
+                <a href="https://www.google.com.br/?hl=pt-BR">
                 <button  data-mdb-ripple-init type="button" class="btn btn-secondary btn-floating mx-1">
                   <i class="fab fa-google">
                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-google" viewBox="0 0 16 16">
@@ -61,7 +63,8 @@
                    </svg>
                   </i>
                 </button>
-
+                </a>
+              <a href="https://x.com/?lang=pt">
                <button  data-mdb-ripple-init type="button" class="btn btn-secondary btn-floating mx-1">
                  <i class="fab fa-twitter">
                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
@@ -69,7 +72,8 @@
                    </svg>
                  </i>
                </button>
-
+              </a>
+              <a href="https://github.com">
                <button  data-mdb-ripple-init type="button" class="btn btn-secondary btn-floating mx-1">
                    <i class="fab fa-github">
                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
@@ -77,6 +81,7 @@
                       </svg>
                    </i>
                </button>
+              </a>
             </div>
         </form>
     </div>

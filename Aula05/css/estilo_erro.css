@@ -3,19 +3,19 @@
 }
 
 .custom-btn:hover {
-    background-color: #f3e8ff !important;
+    background-color: #6c63ff !important;
     transition: background-color 0.3s ease-in-out;
 }
 
 @media (prefers-color-scheme: dark) {
     .custom-bg {
         background: linear-gradient(to right, #1f2937, #111827);
-        color: white !important;
+        color: #6c63ff !important;
     }
 
     .custom-btn {
         background-color: #374151 !important;
-        color: white !important;
+        color: #6c63ff !important;
     }
 
     .custom-btn:hover {
@@ -50,7 +50,7 @@ p.mt-4 {
 
 .custom-btn {
     background-color: #fff;
-    color: #52465f;
+    color: #6c63ff;
     font-weight: 600;
     border: none;
     padding: 12px 24px;
@@ -62,7 +62,7 @@ p.mt-4 {
 body {
     background: linear-gradient(135deg, #030203, #81a4e0);
     font-family: 'Poppins', sans-serif;
-    color: #fff;
+    color: #f8f9fa;
     margin: 0;
     padding: 0;
     display: flex;
@@ -72,7 +72,7 @@ body {
 }
 
 .custom-btn:hover {
-    background-color: #6a11cb;
+    background-color: #6c63ff;
     color: #fff;
     transform: translateY(-2px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
