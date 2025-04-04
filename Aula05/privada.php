@@ -14,7 +14,7 @@
         <meta name="author" content="" />
         <title>Times de Basquete</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/baskt.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -22,7 +22,6 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
-        
         <style>
 
 .bg-primary {
@@ -228,8 +227,6 @@
 .portfolio-item:nth-child(6) {
     border: 3px solid #1D428A;
 }
-
-
         </style>
     </head>
     <body id="page-top">
