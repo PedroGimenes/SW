@@ -14,14 +14,16 @@
         <meta name="author" content="" />
         <title>Times de Basquete</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/baskt.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
+        
         <link href="css/styles.css" rel="stylesheet" />
+        <link rel="stylesheet" href="privada_estilo.css">
         <style>
          
 /* Lakers */
@@ -176,6 +178,7 @@
 .portfolio-item:nth-child(6) {
     border: 3px solid #1D428A;
 }
+
         </style>
     </head>
     <body id="page-top">
@@ -200,8 +203,6 @@
         <!-- Masthead-->
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
-                <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="assets/img/png-clipart-playing-basketball-black-basketball.png" alt="..." />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Bem vindo <?php echo $nome; ?></h1>
                 <!-- Icon Divider-->
@@ -604,7 +605,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/golden.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">O Golden State Warriors é uma das equipes mais dominantes da NBA nos últimos anos, conquistando múltiplos títulos com um estilo de jogo baseado em arremessos de três pontos. Liderado por Stephen Curry, o time revolucionou o basquete moderno e mantém uma forte presença competitiva.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
