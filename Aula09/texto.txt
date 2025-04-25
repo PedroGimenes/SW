@@ -1,0 +1,19 @@
+(metodos - ações (o que ele faz?))
+(atributos - caracteristicas)
+
+
+classe: cachorro 
+
+atributos:
+
+.raça           $Raca
+.pelagem        $Pelagem
+.peso           $Peso
+.porte          $Porte
+
+
+metodo:
+
+.latir          function Latir() {          }
+.correr         function Correr() {          }
+.morder         function Morder() {          }
